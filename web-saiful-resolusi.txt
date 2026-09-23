@@ -1,3 +1,6 @@
 Web Saiful Resolusi
 - konsisten dalam membuat website, mulai dari halaman login dan sebagainya.
 - menyelesaikkan website
+
+tahap 2
+- membuat web dinamis
